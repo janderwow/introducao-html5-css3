@@ -6,6 +6,9 @@ Neste curso, explorei os fundamentos vitais de HTML5 e CSS3, adquirindo habilida
 Principais Tópicos Abordados:
 
 Estruturação semântica com HTML5
+
 Estilização e layout responsivo com CSS3
+
 Aplicações práticas para o desenvolvimento frontend
+
 Preparação sólida para o próximo passo no Bootcamp Coding The Future
